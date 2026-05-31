@@ -106,3 +106,30 @@ python -m multi_agent_collaboration.multi_collaboration
 python -m hierarchical_agent_team.merger_super_agent
 
 ```
+
+## LangSmith Traces
+
+## 1. Agent Supervisor
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f3742bd7-8cdc-454f-b210-9aa8fc145a86" width="900">
+</p>
+
+---
+
+## 2. Hierarchical Agent
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f467e22c-067e-4b63-9a64-ac142bde6094" width="900">
+</p>
+
+---
+
+## 3. Multi-Agent Collaboration
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5c3a2007-0733-495b-8b98-0b825daaef15" width="900">
+</p>
+
+
+
